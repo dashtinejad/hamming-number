@@ -1,0 +1,2 @@
+# hamming-number
+Hamming Number
